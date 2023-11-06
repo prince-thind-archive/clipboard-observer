@@ -1,3 +1,0 @@
-while ./bin/clipnotify; do
-    xdotool key ctrl+alt+e
-done
