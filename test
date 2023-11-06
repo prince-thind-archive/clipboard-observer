@@ -1,4 +1,0 @@
-
-while /home/prince/Desktop/french/clipboard-observer/bin/clipnotify; do
-    node index.js
-done
